@@ -94,7 +94,6 @@ Acesse meu [portfólio no site pessoal](https://spinelli.dev.br/) para conhecer 
 ## 🌐 Conexões
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizspinelli/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/spnly)
 [![Website](https://img.shields.io/badge/-Website-000000?logo=react&logoColor=white)](https://spinelli.dev.br/)
 
 ---
