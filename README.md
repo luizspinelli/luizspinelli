@@ -17,8 +17,6 @@ Sou Arquiteto de Soluções, Tech Lead e Desenvolvedor Fullstack com +5 anos de 
 - Liderança técnica de times com 20+ pessoas em projetos simultâneos
 - Criação de APIs escaláveis e gateways de integração
 - Migração de monolitos para microserviços (ECS + API Gateway)
-- Projetos: Brcomerce, Zignet, Grupo Avenida, Brinks, entre outros
-
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -35,13 +33,11 @@ Sou Arquiteto de Soluções, Tech Lead e Desenvolvedor Fullstack com +5 anos de 
 
 ## 🌐 Links
 - [LinkedIn](https://www.linkedin.com/in/luizspinelli/)
-- [Portfólio](#) *(coloque seu link quando estiver pronto)*
-
 ---
 
 ## 📬 Contato
 Se quiser trocar uma ideia ou tocar um projeto:  
-**luiz@seuemail.com** | [WhatsApp](https://wa.me/seunumero)
+**luiz_lucchi@hotmail.com**
 
 ---
 
