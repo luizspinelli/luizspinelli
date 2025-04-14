@@ -11,6 +11,8 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 - **Desenvolvimento Fullstack**: Criação de aplicações web e mobile de ponta a ponta
 - **Infraestrutura como Código**: Automação de ambientes em nuvem
 - **Liderança Técnica**: Mentoria e gestão de times de desenvolvimento
+- **Ambientes Híbridos**: Experiência com infraestrutura on-premise e cloud
+- **Sistemas Legados**: Integração e modernização de sistemas Oracle
 
 ---
 
@@ -23,6 +25,7 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?logo=oracle&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -48,12 +51,15 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?logo=github-actions&logoColor=white)
+![On-Premise](https://img.shields.io/badge/-On--Premise-0078D4?logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
 ---
 
@@ -65,6 +71,8 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 - **Automação de Infraestrutura**: Implementação de IaC com Terraform e pipelines de CI/CD
 - **Performance**: Otimização de aplicações para alto desempenho e baixa latência
 - **Mobile**: Desenvolvimento de aplicativos cross-platform com Flutter e React Native
+- **Ambientes Híbridos**: Integração de soluções entre ambientes on-premise e cloud AWS
+- **Oracle**: Desenvolvimento e otimização de sistemas utilizando banco de dados Oracle e PL/SQL
 
 ---
 
@@ -79,6 +87,7 @@ Acesse meu [portfólio no site pessoal](https://spinelli.dev.br/) para conhecer 
 - **Graduação**: Análise e Desenvolvimento de Sistemas
 - **AWS Certified**: Solutions Architect Associate
 - **Scrum.org**: Professional Scrum Master I (PSM I)
+- **Oracle**: Oracle Certified Associate (OCA)
 
 ---
 
