@@ -82,15 +82,6 @@ Acesse meu [portfólio no site pessoal](https://spinelli.dev.br/) para conhecer 
 
 ---
 
-## 📚 Formação & Certificações
-
-- **Graduação**: Análise e Desenvolvimento de Sistemas
-- **AWS Certified**: Solutions Architect Associate
-- **Scrum.org**: Professional Scrum Master I (PSM I)
-- **Oracle**: Oracle Certified Associate (OCA)
-
----
-
 ## 🌐 Conexões
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizspinelli/)
