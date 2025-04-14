@@ -25,7 +25,6 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?logo=oracle&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -43,16 +42,13 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 ### Infraestrutura
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?logo=github-actions&logoColor=white)
 ![On-Premise](https://img.shields.io/badge/-On--Premise-0078D4?logo=microsoft&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
