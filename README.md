@@ -5,6 +5,15 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 
 ---
 
+## 💼 Áreas de Atuação
+
+- **Arquitetura de Soluções**: Design de sistemas distribuídos e resilientes
+- **Desenvolvimento Fullstack**: Criação de aplicações web e mobile de ponta a ponta
+- **Infraestrutura como Código**: Automação de ambientes em nuvem
+- **Liderança Técnica**: Mentoria e gestão de times de desenvolvimento
+
+---
+
 ## 🚀 Stack Tecnológico
 
 ### Linguagens
@@ -17,22 +26,29 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 ### Infraestrutura
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-4A154B?logo=github-actions&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
 ---
 
@@ -42,6 +58,21 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 - **Arquitetura de APIs**: Desenvolvimento de APIs RESTful escaláveis e gateways de integração
 - **Modernização de Sistemas**: Migração de monolitos para microserviços utilizando AWS ECS e API Gateway
 - **Automação de Infraestrutura**: Implementação de IaC com Terraform e pipelines de CI/CD
+- **Performance**: Otimização de aplicações para alto desempenho e baixa latência
+
+---
+
+## 🌟 Projetos Destacados
+
+Acesse meu [portfólio no site pessoal](https://spinelli.dev.br/) para conhecer em detalhes os principais projetos desenvolvidos.
+
+---
+
+## 📚 Formação & Certificações
+
+- **Graduação**: Análise e Desenvolvimento de Sistemas
+- **AWS Certified**: Solutions Architect Associate
+- **Scrum.org**: Professional Scrum Master I (PSM I)
 
 ---
 
@@ -58,7 +89,3 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 Para propostas de trabalho, colaborações ou networking:  
 📧 **luiz_lucchi@hotmail.com**  
 🌐 **[spinelli.dev.br](https://spinelli.dev.br/)**
-
----
-
-⭐ Siga-me para acompanhar meus projetos e contribuições!
