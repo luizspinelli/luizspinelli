@@ -22,6 +22,7 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
@@ -29,6 +30,10 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
@@ -59,6 +64,7 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 - **Modernização de Sistemas**: Migração de monolitos para microserviços utilizando AWS ECS e API Gateway
 - **Automação de Infraestrutura**: Implementação de IaC com Terraform e pipelines de CI/CD
 - **Performance**: Otimização de aplicações para alto desempenho e baixa latência
+- **Mobile**: Desenvolvimento de aplicativos cross-platform com Flutter e React Native
 
 ---
 
