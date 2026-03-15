@@ -1,4 +1,4 @@
-# 👨‍💻 Luiz Spinelli
+# 👨💻 Luiz Spinelli
 ## Arquiteto de Soluções | Tech Lead | Desenvolvedor Fullstack
 
 Com mais de 5 anos de experiência, especializado em projetar e entregar soluções escaláveis e robustas para diversos setores, incluindo logística, varejo, seguros e fintechs.
@@ -72,9 +72,16 @@ Com mais de 5 anos de experiência, especializado em projetar e entregar soluç�
 
 ---
 
-## 🌟 Projetos Destacados
+## 🌟 Projetos Recentes
 
-Acesse meu [portfólio no site pessoal](https://spinelli.dev.br/) para conhecer em detalhes os principais projetos desenvolvidos.
+### ✅ [LaunchPad Commerce](https://github.com/luizspinelli/launchpad-commerce) — [Demo ao vivo →](https://launchpad-commerce-roan.vercel.app)
+Landing page moderna + e-commerce com checkout integrado via Stripe. Stack: **Next.js 14 · TypeScript · TailwindCSS · Stripe · Resend · Vercel**
+
+### 🔄 [Lyncfeed](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/01-lyncfeed) _(em desenvolvimento)_
+SaaS B2B de agregação de feeds em tempo real. Stack: **React 18 · Node.js · PostgreSQL · Redis · WebSockets**
+
+### 🔄 [AutoScheduler](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/02-auto-scheduler) _(em desenvolvimento)_
+Automação de agendamentos com integrações Google Calendar, Notion e SendGrid. Stack: **Node.js · TypeScript · BullMQ · Redis**
 
 ---
 
