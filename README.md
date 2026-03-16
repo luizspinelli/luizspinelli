@@ -78,9 +78,9 @@ Framework de 9 agentes de IA especializados rodando no Discord — orquestraçã
 SaaS B2B de agregação de feeds em tempo real com RBAC — monorepo Next.js + NestJS.
 **Stack:** Next.js · NestJS · PostgreSQL · Redis · WebSockets · Turborepo
 
-### 🔄 [AutoScheduler](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/02-auto-scheduler) _(em desenvolvimento)_
-Automação de agendamentos com integrações Google Calendar e SendGrid.
-**Stack:** Node.js · TypeScript · BullMQ · Redis
+### 🔄 [AutoScheduler](https://github.com/luizspinelli/autoscheduler) _(em desenvolvimento)_
+Plataforma de automação de agendamentos com Google Calendar, BullMQ e SendGrid.
+**Stack:** Next.js · NestJS · BullMQ · Redis · PostgreSQL · Turborepo
 
 ---
 
