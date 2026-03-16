@@ -69,6 +69,11 @@ Landing page moderna + e-commerce com checkout integrado via Stripe.
 Plataforma SaaS de gestão de facilities — módulos de contratos, fornecedores, ordens de serviço e manutenção preventiva.
 **Stack:** NestJS · Prisma · PostgreSQL · React · AWS · Docker
 
+
+### 🤖 [OASIS Template](https://github.com/luizspinelli/oasis-template)
+Framework de 9 agentes de IA especializados rodando no Discord — orquestração de vida pessoal, trabalho, finanças e saúde com memória persistente.
+**Stack:** OpenClaw · Claude · Discord · Node.js
+
 ### 🔄 [Lyncfeed](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/01-lyncfeed) _(em desenvolvimento)_
 SaaS B2B de agregação de feeds em tempo real.
 **Stack:** React · Node.js · PostgreSQL · Redis · WebSockets
