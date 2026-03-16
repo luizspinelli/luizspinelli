@@ -61,7 +61,7 @@ Com mais de 5 anos de experiência, especializado em liderança de operações, 
 
 ## 🌟 Projetos
 
-### ✅ [LaunchPad Commerce](https://github.com/luizspinelli/launchpad-commerce) — [Demo →](https://launchpad-commerce-roan.vercel.app)
+### ✅ [LaunchPad Commerce](https://github.com/luizspinelli/launchpad-commerce) — [Demo →](https://launchpad.spinelli.dev.br)
 Landing page moderna + e-commerce com checkout integrado via Stripe.
 **Stack:** Next.js 14 · TypeScript · TailwindCSS · Stripe · Resend · Vercel
 
@@ -74,11 +74,11 @@ Plataforma SaaS de gestão de facilities — módulos de contratos, fornecedores
 Framework de 9 agentes de IA especializados rodando no Discord — orquestração de vida pessoal, trabalho, finanças e saúde com memória persistente.
 **Stack:** OpenClaw · Claude · Discord · Node.js
 
-### 🔄 [Lyncfeed](https://github.com/luizspinelli/lyncfeed) — [Demo →](https://lyncfeed-6nok4fweh-luiz-spinellis-projects.vercel.app) _(em desenvolvimento)_
+### 🔄 [Lyncfeed](https://github.com/luizspinelli/lyncfeed) — [Demo →](https://lyncfeed.spinelli.dev.br) _(em desenvolvimento)_
 SaaS B2B de agregação de feeds em tempo real com RBAC — monorepo Next.js + NestJS.
 **Stack:** Next.js · NestJS · PostgreSQL · Redis · WebSockets · Turborepo
 
-### 🔄 [AutoScheduler](https://github.com/luizspinelli/autoscheduler) — [Demo →](https://autoscheduler-3undxnpbf-luiz-spinellis-projects.vercel.app) _(em desenvolvimento)_
+### 🔄 [AutoScheduler](https://github.com/luizspinelli/autoscheduler) — [Demo →](https://autoscheduler.spinelli.dev.br) _(em desenvolvimento)_
 Plataforma de automação de agendamentos com Google Calendar, BullMQ e SendGrid.
 **Stack:** Next.js · NestJS · BullMQ · Redis · PostgreSQL · Turborepo
 
