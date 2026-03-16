@@ -74,9 +74,9 @@ Plataforma SaaS de gestão de facilities — módulos de contratos, fornecedores
 Framework de 9 agentes de IA especializados rodando no Discord — orquestração de vida pessoal, trabalho, finanças e saúde com memória persistente.
 **Stack:** OpenClaw · Claude · Discord · Node.js
 
-### 🔄 [Lyncfeed](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/01-lyncfeed) _(em desenvolvimento)_
-SaaS B2B de agregação de feeds em tempo real.
-**Stack:** React · Node.js · PostgreSQL · Redis · WebSockets
+### 🔄 [Lyncfeed](https://github.com/luizspinelli/lyncfeed) — [Demo →](https://lyncfeed-6nok4fweh-luiz-spinellis-projects.vercel.app) _(em desenvolvimento)_
+SaaS B2B de agregação de feeds em tempo real com RBAC — monorepo Next.js + NestJS.
+**Stack:** Next.js · NestJS · PostgreSQL · Redis · WebSockets · Turborepo
 
 ### 🔄 [AutoScheduler](https://github.com/luizspinelli/spinelli-portfolio/tree/main/projects/02-auto-scheduler) _(em desenvolvimento)_
 Automação de agendamentos com integrações Google Calendar e SendGrid.
