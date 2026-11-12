@@ -66,12 +66,7 @@ Sistema multiagente pessoal: 9 agentes de IA especializados rodando no Discord, 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?logo=anthropic&logoColor=white)
 
-## ♟️ Fora do código
-
-Jogo xadrez rápido no [Chess.com](https://www.chess.com/member/luizspinelli): subi quase 300 pontos este ano, em boa parte usando a ferramenta que eu mesmo construí para descobrir onde estava errando. Também corro e estudo economia.
-
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizspinelli/)
 [![Website](https://img.shields.io/badge/-spinelli.dev.br-000000?logo=googlechrome&logoColor=white)](https://spinelli.dev.br/)
-[![Chess.com](https://img.shields.io/badge/-Chess.com-81B64C?logo=chessdotcom&logoColor=white)](https://www.chess.com/member/luizspinelli)
