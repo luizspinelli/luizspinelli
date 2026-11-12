@@ -31,7 +31,6 @@ Sistema multiagente pessoal: 9 agentes de IA especializados rodando no Discord, 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [LaunchPad Commerce](https://github.com/luizspinelli/launchpad-commerce) · [demo](https://launchpad.spinelli.dev.br) | Landing page + e-commerce com checkout Stripe | Next.js · Stripe · Resend |
 | [Monte o Prato do Bebê](https://github.com/luizspinelli/materno-infantil) | Jogo educativo em PWA para feira de nutrição, baseado no Guia Alimentar do Ministério da Saúde | Next.js · TypeScript · PWA |
 
 </details>
