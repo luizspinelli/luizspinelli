@@ -14,6 +14,10 @@ Nos projetos pessoais, pego um problema meu e transformo em produto. O resultado
 Tarefas, projetos, hábitos, agenda, saúde, leitura e xadrez num app só, com um **servidor MCP com 100+ ferramentas**, então eu opero tudo conversando com o Claude. Ele integra Azure DevOps, Jira, Outlook, Garmin (via Health Connect), Steam e Chess.com, e me entrega coisas como "quais cards estão travados e por quê" ou "o jogo está comendo meu sono?".
 `Next.js` · `TypeScript` · `PostgreSQL` · `MCP` · `Claude` · `Vercel` · *(repositório privado)*
 
+### 📈 Step App
+SaaS de gestão de performance para empresas: OKRs, KPIs e projetos, com um servidor MCP para consultar tudo pelo Claude.
+`NestJS` · `React` · `Angular` · `PostgreSQL` · `MCP` · *(repositório privado)*
+
 ### ♟️ [Chess Placar](https://github.com/luizspinelli/chess-placar): [Demo →](https://chess-placar.vercel.app/?nick=hikaru)
 Painel de diagnóstico para jogadores do Chess.com. Roda o **Stockfish 19 em WebAssembly no navegador** para avaliar as partidas lance a lance, gera achados automáticos (aberturas problemáticas, erros por fase, erros com o relógio apertado, tilt) e, se você quiser, um plano de estudo escrito por IA. Não tem servidor nem cadastro: é HTML, CSS e JS puros.
 `JavaScript` · `Stockfish WASM` · `chess.js`
