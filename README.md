@@ -32,8 +32,6 @@ Sistema multiagente pessoal: 9 agentes de IA especializados rodando no Discord, 
 | Projeto | O que é | Stack |
 |---|---|---|
 | [LaunchPad Commerce](https://github.com/luizspinelli/launchpad-commerce) · [demo](https://launchpad.spinelli.dev.br) | Landing page + e-commerce com checkout Stripe | Next.js · Stripe · Resend |
-| [Lyncfeed](https://github.com/luizspinelli/lyncfeed) · [demo](https://lyncfeed.spinelli.dev.br) | SaaS B2B de agregação de feeds em tempo real com RBAC | Next.js · NestJS · Redis · WebSockets |
-| [AutoScheduler](https://github.com/luizspinelli/autoscheduler) · [demo](https://autoscheduler.spinelli.dev.br) | Automação de agendamentos com Google Calendar | NestJS · BullMQ · PostgreSQL |
 | [Monte o Prato do Bebê](https://github.com/luizspinelli/materno-infantil) | Jogo educativo em PWA para feira de nutrição, baseado no Guia Alimentar do Ministério da Saúde | Next.js · TypeScript · PWA |
 
 </details>
